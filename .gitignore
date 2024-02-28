@@ -20,7 +20,7 @@ parts/
 sdist/
 var/
 wheels/
-dinara/
+kodlasam_data/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
