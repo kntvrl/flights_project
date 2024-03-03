@@ -1,7 +1,8 @@
 
 # Uçuş Rötarları ve İptallerinin Analizi #
 
-Amaç: Uçakların kalkış geçikmelerini tahmin etmektir.
+**Amaç: Uçakların kalkış geçikmelerini tahmin etmektir.** 
+- Ayrıntılı teknik rapor project_notebook_ds.ipynb dosyasında sunulmuştur.
 
 
 Veri setinde 111006 satır ve 29 değişken bulunmaktadır. 2 havaalanından kalkan uçakların 2022 yılına ait ilk 6 aylık verisinden oluşur.
